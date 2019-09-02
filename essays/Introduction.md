@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: My Introduction
-# All dates must be YYYY-MM-DD format!
 date: 2019-09-2
 ---
 
