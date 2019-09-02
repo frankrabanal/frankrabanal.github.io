@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Frank Rabanal",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://frankrabanal.github.io/images/molly.png",
+    "email": "frabanal@hawaii.edu",
+    "phone": "808-389-1347",
+    "website": "https://frankrabanal.github.io",
+    "summary": "I am studying for a B.S. in MIS at the University of Hawaii Manoa. I expect to graduate in Fall 2021.",
     "location": {
-      "address": "",
+      "address": "2500 Campus Road",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,41 +17,26 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "frankrabanal",
+        "url": "http://github.com/frankrabanal"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Hiking",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Surfing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Exercising",
       "keywords": [
       ]
     }
