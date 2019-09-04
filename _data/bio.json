@@ -1,98 +1,240 @@
 {
+
   "basics": {
+
     "name": "Frank Rabanal",
+
     "label": "Student",
+
     "picture": "https://frankrabanal.github.io/images/IMG_20190525_113551.jpg",
+
     "email": "frabanal@hawaii.edu",
-    "phone": "808-389-1347",
-    "website": "https://frankrabanal.github.io",
+
+    "phone": "+1-808-389-1347",
+
+    "website": "https://frankrabanal.github.io/",
+
     "summary": "I am studying for a B.S. in MIS at the University of Hawaii Manoa. I expect to graduate in Fall 2021.",
+
     "location": {
+
       "address": "2500 Campus Road",
+
       "postalCode": "96822",
+
       "city": "Honolulu",
+
       "countryCode": "USA",
+
       "region": "Hawaii"
+
     },
+
     "profiles": [
+
       {
+
         "network": "github",
+
         "username": "frankrabanal",
-        "url": "http://github.com/frankrabanal"
+
+        "url": "http://frankrabanal.github.io"
+
+      },
+
+      {
+
+        "network": "email",
+
+        "url": "frabanal@hawaii.edu"
+
       }
+
     ]
+
   },
+
   "interests": [
+
     {
-      "name": "Hiking",
-      "keywords": [
-        
-      ]
-    },
-    {
-      "name": "Surfing",
-      "keywords": [
-      ]
-    },
-    {
+
       "name": "Exercising",
+
       "keywords": [
+
+        "Lifting weights",
+
+        "HIIT",
+
+        "Cardio"
+
       ]
+
+    },
+
+    {
+
+      "name": "Surfing",
+
+      "keywords": [
+
+        "Body Boards",
+
+        "Body Surf",
+
+        "Longboards and short boards"
+
+      ]
+
+    },
+
+    {
+
+      "name": "Hiking",
+
+      "keywords": [
+
+        "Makapuu Light House Trail",
+
+        "Manoa Falls"
+
+      ]
+
     }
+
   ],
+
   "skills": [
+
     {
+
       "name": "Basic Software Application Experience",
-      "level": "",
+
+      "level": "advanced",
+
       "keywords": [
-        "Mircosoft Word",
+
+        "Microsoft word",
+
         "Microsoft Excel",
-        "Microsoft Powerpoint"]
-      }
-    ,
+
+        "Microsoft Powerpoint",
+
+        "HTML"
+
+      ]
+
+    },
+
     {
+
       "name": "Toolsets/OS",
+
       "level": "",
+
       "keywords": [
-        "MacOS",
+
+        "Git/GitHub",
+
         "Windows",
-        "Git/GitHub"]
-        
-      }
-    ]
-  },
-  "education": 
-    
+
+        "apple",
+
+        "DOS"
+
+      ]
+
+    }
+
+  ],
+
+  "education": [
+
+    {
+
       "institution": "University of Hawaii, Honolulu, HI",
+
       "area": "MIS (expected Spring, 2021)",
-      "studyType": "B.S.",
-      "startDate": "2006-08-26",
-      "endDate": "Present",
-      "gpa": "2.5",
-      "courses": 
-      
-    
-  
-  "work": 
-    
+
+      "studyType": "B.S",
+
+      "startDate": "",
+
+      "endDate": "",
+
+      "gpa": "",
+
+      "courses": []
+
+    }
+
+  ],
+
+  "work": [
+
+    {
+
       "company": "Hale Koa Hotel",
+
       "position": "Server",
+
       "website": "halekoa.com",
-      "startDate": "2005-10-01",
+
+      "startDate": "2005-08-01",
+
       "endDate": "Present",
-      "summary": "Lead Server",
-      "highlights": 
-        "Greets guest with Aloha, take drink and food orders, ensures exceptional customer service"
-        
-      
-    
-    
-  ,
-  
-  "references": 
-    
+
+      "summary": "",
+
+      "highlights": [
+
+        "Greets guest with Aloha",
+
+        "ensures exceptional customer service"
+
+      ]
+
+    }
+
+  ],
+
+  "volunteer": [
+
+    {
+
+      "organization": "",
+
+      "website": "",
+
+      "position": "",
+
+      "startDate": "",
+
+      "endDate": "",
+
+      "summary": "",
+
+      "highlights": []
+
+    }
+
+  ],
+
+  "awards": [],
+
+  "references": [
+
+    {
+
       "name": "Available upon request",
+
       "reference": ""
+
+    }
+
+  ]
+
+}
     
   
 
