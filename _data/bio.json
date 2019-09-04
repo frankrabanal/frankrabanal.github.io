@@ -47,52 +47,52 @@
       "keywords": [
         "Mircosoft Word",
         "Microsoft Excel",
-        "Microsoft Powerpoint",
-      ]
-    },
+        "Microsoft Powerpoint"]
+      }
+    ,
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
         "MacOS",
         "Windows",
-        "Git/GitHub",
+        "Git/GitHub"]
         
-      ]
-    }
-  ],
-  "education": [
-    {
+      }
+    ]
+  },
+  "education": 
+    
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "MIS (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2006-08-26",
       "endDate": "Present",
       "gpa": "2.5",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
+      "courses": 
+      
+    
+  
+  "work": 
+    
       "company": "Hale Koa Hotel",
       "position": "Server",
       "website": "halekoa.com",
       "startDate": "2005-10-01",
       "endDate": "Present",
       "summary": "Lead Server",
-      "highlights": [
-        "Greets guest with Aloha, take drink and food orders, ensures exceptional customer service",
+      "highlights": 
+        "Greets guest with Aloha, take drink and food orders, ensures exceptional customer service"
         
-      ]
-    },
+      
     
-  ],
+    
+  ,
   
-  "references": [
-    {
+  "references": 
+    
       "name": "Available upon request",
       "reference": ""
-    }
-  ]
-}
+    
+  
+
