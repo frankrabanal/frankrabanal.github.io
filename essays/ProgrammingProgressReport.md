@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E4: Programming Progress Essay
+title: E4 Programming Progress Essay
 date: 2019-11-19
 
 ---
